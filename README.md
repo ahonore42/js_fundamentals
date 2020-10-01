@@ -3,7 +3,10 @@
  <img src="https://hackernoon.com/hn-images/1*OF0xEMkWBv-69zvmNs6RDQ.gif" alt="JS gif" >
 </div>
 
-### Welcome to JavaScript! This lesson involves working with a terminal command line and a text editor of your choice.
+## Welcome to JavaScript! 
+### Prerequisites: working with a terminal command line, a text editor of your choice.
+
+This lesson was created with the intention of taking you from a complete beginner in JS to having a strong fundamental skillset. It provides examples for many of the inbuilt methods in JavaScript as well as proper use cases. 
 
 ### To start working with this lesson 
   * `fork` this repository
