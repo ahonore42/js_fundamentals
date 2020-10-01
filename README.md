@@ -4,9 +4,9 @@
 </div>
 
 ## Welcome to JavaScript! 
-### Prerequisites: working with a terminal command line, a text editor of your choice.
+### Prerequisites: working with a terminal command line + a text editor of your choice.
 
-This lesson was created with the intention of taking you from a complete beginner in JS to having a strong fundamental skillset. It provides examples for many of the inbuilt methods in JavaScript as well as proper use cases. 
+This lesson was created with the intention of taking you from a complete beginner in JS to having a strong fundamental skillset. It provides examples for many of the inbuilt methods in JavaScript as well as proper use cases. With that being said, the lesson is lengthy, so take it in sections. Each section in `lesson.js` has been denoted with a comment, like this: <br /> `// SECTION TITLE ///////////////////////////////////////////////`.
 
 ### To start working with this lesson 
   * `fork` this repository
